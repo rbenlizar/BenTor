@@ -30,5 +30,10 @@ while getopts c:w:th OPTION; do
 			echo "BenTor.sh -w to run with the wget command"
 			echo "BenTor.sh -t to display your ip address before an after activating torsocks"
 			;;
+		
+		*)
+			echo "This was not a recognized option"
+			echo "Please use <$0 -h> to view options available" 
+			;;
 	esac
 done
