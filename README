@@ -1,0 +1,26 @@
+######################################################################################################################################################################
+#####################################################################################################################################################################
+
+BenTor is a basic tool for leveraging the tor network to issue web commands through Linux CLI.
+
+Dependencies:
+
+	BenTor requires that torsocks and tor is installed
+
+To Run:
+
+	Copy the script into your desitred directory. Use the command "bash" followed by the script file
+
+Usage:
+
+	bash BenTor.sh -t (testing your that tor has properly assigned a different ip address for your web traffic)
+
+Options:
+
+	-c (uses cUrl)
+	-w (uses wget)
+	-t (tests ip assignment)
+	-h (help menu)
+
+
+Please provide feedback, and keep an eye out for version 2 :-) 
