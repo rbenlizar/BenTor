@@ -13,7 +13,7 @@ To Run:
 
 Usage:
 
-	bash BenTor.sh -t (testing your that tor has properly assigned a different ip address for your web traffic)
+	bash BenTor.sh -t (testing that tor has properly assigned a different ip address for your web traffic)
 
 Options:
 
