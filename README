@@ -5,7 +5,7 @@ BenTor is a basic tool for leveraging the tor network to issue web commands thro
 
 Dependencies:
 
-	BenTor requires that torsocks and tor installed
+	BenTor requires that torsocks and tor are installed
 
 To Run:
 
