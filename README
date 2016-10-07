@@ -5,11 +5,11 @@ BenTor is a basic tool for leveraging the tor network to issue web commands thro
 
 Dependencies:
 
-	BenTor requires that torsocks and tor is installed
+	BenTor requires that torsocks and tor installed
 
 To Run:
 
-	Copy the script into your desitred directory. Use the command "bash" followed by the script file
+	Copy the script into your desired directory. Use the command "bash" followed by the script file
 
 Usage:
 
